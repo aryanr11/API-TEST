@@ -74,7 +74,7 @@ export default function Data() {
     const copy = {
       movieName: row.movieName,
       posterURL: row.posterURL,
-      movieType: row.movieName,
+      movieType: row.movieType,
       runningTime: row.runningTime,
       availableOn: row.availableOn,
     };
